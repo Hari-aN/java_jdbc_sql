@@ -51,8 +51,8 @@ body {
 					us. Or login to access your details, if you are already enrolled.</p>
 			</div>
 
-			<a class="btn btn-primary" href="content/signup.jsp">Signup » </a> <a
-				class="btn btn-primary" href="content/login.jsp">Login » </a>
+			<a class="btn btn-primary" href="content/signup.jsp">Signup Â» </a> <a
+				class="btn btn-primary" href="content/login.jsp">Login Â» </a>
 		</div>
 
 		<div></div>
